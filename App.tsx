@@ -131,8 +131,8 @@ const App: React.FC = () => {
                 </div>
                 <div className="relative h-80 md:h-96 rounded-lg overflow-hidden shadow-2xl transform rotate-2 hover:rotate-0 transition-transform duration-700">
                   <img 
-                    src="https://images.unsplash.com/photo-1575372587016-8c4cbf03328d?q=80&w=800&auto=format&fit=crop" 
-                    alt="Chocolatier working" 
+                    src="https://images.unsplash.com/photo-1605256565134-8c8a14b0b147?q=80&w=800&auto=format&fit=crop" 
+                    alt="Maestro Chocolatero trabajando" 
                     className="w-full h-full object-cover"
                   />
                 </div>
@@ -183,8 +183,8 @@ const App: React.FC = () => {
             
             <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center mb-24">
                <img 
-                 src="https://images.unsplash.com/photo-1620921568273-03415c92842e?q=80&w=800&auto=format&fit=crop" 
-                 alt="Cacao Farm" 
+                 src="https://images.unsplash.com/photo-1587049352846-4a222e784d38?q=80&w=800&auto=format&fit=crop" 
+                 alt="Cacao Pods Farm" 
                  className="rounded-lg shadow-xl w-full h-[600px] object-cover"
                />
                <div className="space-y-8">

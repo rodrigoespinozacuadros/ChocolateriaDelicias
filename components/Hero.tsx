@@ -11,8 +11,8 @@ export const Hero: React.FC<HeroProps> = ({ onShopNow }) => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1620980776848-85dd2c502b66?q=80&w=2070&auto=format&fit=crop" 
-          alt="Chocolate pour" 
+          src="https://images.unsplash.com/photo-1511381939415-e44015466834?q=80&w=2072&auto=format&fit=crop" 
+          alt="Artistic Chocolate Texture" 
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-chocolate-900/90"></div>
